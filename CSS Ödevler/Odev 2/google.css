@@ -1,0 +1,51 @@
+.sayfa{
+    margin: 0px 234px;
+}
+
+.search{
+    text-align: center;
+    background-color:#EEEEEE;
+    padding: 5px;
+}
+
+.box{
+    margin-top: 1px;
+    height: 8px;
+    width: 1600px;
+    font-size: 18px;
+}
+
+.kutu1{
+    padding-top: 5px;
+    margin: 1px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #7EE5DA;
+    height: 75px;
+    width: 477px;
+    float: left;
+}
+
+.kutu2{
+    padding-top: 5px;
+    margin: 1px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #70CCC2;
+    height: 75px;
+    width: 477px;
+    float: left;
+    font-size: 16px;
+}
+
+.kutu3{
+    padding-top: 5px;
+    margin: 1px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #62B3AA;
+    height: 75px;
+    width: 477px;
+    float: left;
+    font-size: 14px;
+}
